@@ -1,2 +1,2 @@
 config SHEILD_BMP_NUMPAD
-    def_bool $(sheilds_list_contains, bmp_numpad)
+    def_bool $(shields_list_contains,bmp_numpad)
