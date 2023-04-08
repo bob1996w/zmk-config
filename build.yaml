@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: nrf52840dk_nrf52840
-    shield: romac
+  - board: ble_micro_pro
+    shield: bmp_numpad

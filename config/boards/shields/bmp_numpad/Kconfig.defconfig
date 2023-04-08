@@ -1,0 +1,6 @@
+if SHEILD_BMP_NUMPAD
+
+config ZMK_KEYBOARD_NAME
+    default "BMP Numpad"
+
+endif
